@@ -26,6 +26,16 @@ html, body {
 	height: 500px;
 }
 
+.game {
+  height: 500px;
+  padding 20px 0;
+  position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .diagram-left {
 	float: left;
 	padding: 5px;
